@@ -81,12 +81,12 @@ input{outline:none !important}
 	color:#000;
 }
 .head_remember_me{
-	
 
-color: #0073A3;
-    font-size: 12px;
-    font-weight: normal !important;
-    text-decoration: none;
+
+	color: #0073A3;
+	font-size: 12px;
+	font-weight: normal !important;
+	text-decoration: none;
 }
 .hd_sing{position:relative}
 .hd_sing{
@@ -164,15 +164,15 @@ color: #0073A3;
 	cursor:pointer;
 }
 .hd_loginform form input[type="submit"]:hover{
-		background: #459aca;
-		background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzQ1OWFjYSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzOTdjYjciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-		background: -moz-linear-gradient(top, #459aca 0%, #397cb7 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#459aca), color-stop(100%,#397cb7));
-		background: -webkit-linear-gradient(top, #459aca 0%,#397cb7 100%);
-		background: -o-linear-gradient(top, #459aca 0%,#397cb7 100%);
-		background: -ms-linear-gradient(top, #459aca 0%,#397cb7 100%);
-		background: linear-gradient(to bottom, #459aca 0%,#397cb7 100%);
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#459aca', endColorstr='#397cb7',GradientType=0 );
+	background: #459aca;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzQ1OWFjYSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzOTdjYjciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top, #459aca 0%, #397cb7 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#459aca), color-stop(100%,#397cb7));
+	background: -webkit-linear-gradient(top, #459aca 0%,#397cb7 100%);
+	background: -o-linear-gradient(top, #459aca 0%,#397cb7 100%);
+	background: -ms-linear-gradient(top, #459aca 0%,#397cb7 100%);
+	background: linear-gradient(to bottom, #459aca 0%,#397cb7 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#459aca', endColorstr='#397cb7',GradientType=0 );
 }
 .hd_close_loginform,
 .hd_forgotpassword{
@@ -687,7 +687,7 @@ color: #0073A3;
 	margin:3px;
 	box-shadow:0 0 5px 0 rgba(228,228,228,.3);
 	border:1px solid #e3eeef;
-	
+
 }
 .main_post img{padding:5px 5px}
 .main_post img[align="left"]{padding-left:0}
@@ -768,7 +768,7 @@ color: #0073A3;
 	color:#0073a3;
 	font-size:14px;
 	text-decoration:none;
-	
+
 }
 .ev_lastevent li h4 a:hover{color:#003ea3}
 .ev_lastevent li p{
@@ -781,34 +781,34 @@ color: #0073A3;
 /* // end events */
 
 .ps_head  {
-    line-height: 20px;
-    margin-bottom: 10px ;
-    padding-bottom: 0px  ;
-    padding-top: 20px;
+	line-height: 20px;
+	margin-bottom: 10px ;
+	padding-bottom: 0px  ;
+	padding-top: 20px;
 }
 
 .ps_head a.ps_head_link {
 	color: #343434;
-	
+
 }
 
 .ps_head h2.ps_head_h {
 	border-bottom: none ;
-    color: #343434;
-    font-size: 20px;
-    line-height: 20px;
-    text-shadow: 0 0 2px #D1D1D1;
-    margin-bottom: 0px ;
-    padding-bottom: 0px  ;
-    padding-top: 0px;
+	color: #343434;
+	font-size: 20px;
+	line-height: 20px;
+	text-shadow: 0 0 2px #D1D1D1;
+	margin-bottom: 0px ;
+	padding-bottom: 0px  ;
+	padding-top: 0px;
 }
 .ps_head span.ps_date {
 	color: #0073A3;
-    font-size: 13px;
-    font-weight: bold;
-    line-height: 20px;
-    text-shadow: 0 0 1px #8BB3CB;
-    
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 20px;
+	text-shadow: 0 0 1px #8BB3CB;
+
 }
 
 .cn_hp_content{
@@ -857,7 +857,7 @@ color: #0073A3;
 	color:#343434;
 	padding-top: 6px;
 	padding-left:85px;
-	text-shadow:0 0 2px #d1d1d1;	
+	text-shadow:0 0 2px #d1d1d1;
 }
 .cn_hp_category_more{
 	color:#4674a7;
@@ -881,12 +881,12 @@ color: #0073A3;
 	border-bottom:1px solid #f4f7f9;
 	padding-bottom:11px;
 	margin-bottom:14px;
-	
+
 	color:#5f9c10;
 	text-decoration:none;
 	font-size:18px;
-	font-weight:normal;	
-	
+	font-weight:normal;
+
 }
 
 .cn_hp_post_bestsellersn h3,
@@ -903,7 +903,7 @@ color: #0073A3;
 .cn_hp_post_bestsellersn img,
 .cn_hp_post_action img,
 .cn_hp_post_new img{
-	
+
 	height:auto;
 	float:left
 }
@@ -995,7 +995,7 @@ color: #0073A3;
 }
 
 .cl_catalog{
-	
+
 }
 .cl_catalog ul{display:block;}
 .cl_catalog ul li{
@@ -1131,11 +1131,11 @@ color: #0073A3;
 }
 .sb_text_block{
 	border: 6px solid #EBF4F9;
-    border-radius: 3px 3px 3px 3px;
-    margin-bottom: 30px;
-    padding: 20px;
-    position: relative;
-    font-size: 14px;
+	border-radius: 3px 3px 3px 3px;
+	margin-bottom: 30px;
+	padding: 20px;
+	position: relative;
+	font-size: 14px;
 }
 .sb_nav>ul>li{
 	list-style:none;
@@ -1232,7 +1232,7 @@ color: #0073A3;
 	color:#114b7c;
 	background:#dbeaf4;
 	box-shadow:inset 1px 1px 1px 1px rgba(0,0,0,.1);
-	border-radius:3px;	
+	border-radius:3px;
 }
 
 
@@ -1273,7 +1273,7 @@ color: #0073A3;
 	font-size:14px;
 	font-weight:bold;
 	text-decoration:none;
-	
+
 }
 .sb_event p{
 	color:#70726f;
@@ -1319,7 +1319,7 @@ color: #0073A3;
 	right:10px;
 	bottom:5px;
 	text-decoration:none;
-	
+
 }
 .sb_action_more:hover{color:#2d2d2d}
 .sb_reviewed{
@@ -1496,7 +1496,7 @@ color: #0073A3;
 	background:url(images/ft_bg.png);
 	padding:25px 0;
 	box-shadow:inset 0 2px 1px 1px rgba(0,0,0,.2);
-	
+
 }
 .ft_container{
 	margin:0 auto;
@@ -1598,10 +1598,10 @@ color: #0073A3;
 .clearboth{clear:both}
 
 .vc_content .close h3 {
-	 padding-top: 00px;
+	padding-top: 00px;
 }
 .vc_content .close ul {
-	 margin: 00px;
+	margin: 00px;
 }
 
 

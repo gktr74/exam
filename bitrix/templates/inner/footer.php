@@ -3,33 +3,25 @@
 </div>
 </div>
 <div class="sb_sidebar">
-    <div class="sb_nav">
-        <ul>
-            <li class="close"><a href=""><span>Каталог</span></a></li>
-            <li class="close"><a href=""><span>Кухни</span></a></li>
-            <li class="close"><a href=""><span>Гарнитуры</span></a></li>
-            <li class="open current">
-                <span class="sb_showchild"></span>
-                <a href=""><span>Спальни</span></a>
-                <ul>
-                    <li><a href="">Одноместрые</a></li>
-                    <li><a href="">Двухместные</a></li>
-                    <li><a href="">Детские</a></li>
-                </ul>
-            </li>
-            <li class="close"><a href=""><span>Кухни</span></a></li>
-            <li class="close"><a href=""><span>Гарнитуры</span></a></li>
-            <li class="close">
-                <span class="sb_showchild"></span>
-                <a href=""><span>Спальни</span></a>
-                <ul>
-                    <li><a href="">Одноместрые</a></li>
-                    <li><a href="">Двухместные</a></li>
-                    <li><a href="">Детские</a></li>
-                </ul>
-            </li>
-        </ul>
-    </div>
+    <?$APPLICATION->IncludeComponent(
+        "bitrix:menu",
+        "left_multi",
+        array(
+            "ALLOW_MULTI_SELECT" => "N",
+            "CHILD_MENU_TYPE" => "left",
+            "DELAY" => "N",
+            "MAX_LEVEL" => "4",
+            "MENU_CACHE_GET_VARS" => array(
+            ),
+            "MENU_CACHE_TIME" => "3600",
+            "MENU_CACHE_TYPE" => "N",
+            "MENU_CACHE_USE_GROUPS" => "Y",
+            "ROOT_MENU_TYPE" => "left",
+            "USE_EXT" => "N",
+            "COMPONENT_TEMPLATE" => "left_multi"
+        ),
+        false
+    );?>
     <?$APPLICATION->IncludeComponent(
         "bitrix:main.include",
         "",

@@ -84,6 +84,5 @@ $APPLICATION->SetTitle("Новости");
 	),
 	false
 );
-$APPLICATION->AddChainItem("Пункт1", "test.php");
-$APPLICATION->AddChainItem("Пункт2", "test1.php");
+
 ?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

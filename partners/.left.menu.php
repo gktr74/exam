@@ -1,18 +1,18 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Условия сотрудничества", 
+		"Условия сотрудничества",
 		"/partners/index.php", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Расписание мероприятий", 
-		"/partners/schedule",
-		Array(), 
-		Array(), 
-		"" 
+		"Расписание мероприятий",
+		"/partners/schedule/",
+		Array(),
+		Array(),
+		""
 	),
 	Array(
 		"Как стать партнером", 
@@ -20,6 +20,6 @@ $aMenuLinks = Array(
 		Array(), 
 		Array(), 
 		"" 
-	)
+	),
 );
 ?>

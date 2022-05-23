@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="da1272e3-e369-4386-a83b-9cfae4193789" name="exam">
+        <fileTransfer rootFolder="/home/srv176941/srv176941.hoster-test.ru" accessType="SFTP" host="ftp-176941.srv.hoster.ru" port="22" sshConfigId="c93a1bad-e4f6-4555-8d39-68a201462ec2" sshConfig="srv176941@ftp-176941.srv.hoster.ru:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

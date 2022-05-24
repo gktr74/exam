@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="ftp-176941.srv.hoster.ru" id="c93a1bad-e4f6-4555-8d39-68a201462ec2" port="22" nameFormat="DESCRIPTIVE" username="srv176941" />
+      <sshConfig authType="PASSWORD" host="ssh-176941.srv.hoster.ru" id="dc24d458-798e-423e-9488-178041164286" port="22" nameFormat="DESCRIPTIVE" username="srv176941" />
     </configs>
   </component>
 </project>

@@ -1,10 +1,17 @@
 <?
 $aMenuLinks = Array(
     Array(
+        "",
+        "/index.php",
+        Array(),
+        Array("IMG"=>"/bitrix/templates/.default/images/nv_home.png"),
+        ""
+    ),
+    Array(
         "Компания",
         "company/",
         Array(),
-        Array("IMG"=>"/bitrix/templates/.default/images/nv_home.png"),
+        Array(),
         ""
     ),
     Array(
@@ -23,7 +30,7 @@ $aMenuLinks = Array(
     ),
     Array(
         "Фотогаллерея",
-        "/",
+        "/index.php",
         Array(),
         Array(),
         ""

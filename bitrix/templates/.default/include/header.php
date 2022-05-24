@@ -65,7 +65,7 @@
         "ALLOW_MULTI_SELECT" => "N",
         "CHILD_MENU_TYPE" => "left",
         "DELAY" => "N",
-        "MAX_LEVEL" => "2",
+        "MAX_LEVEL" => "3",
         "MENU_CACHE_GET_VARS" => array(
             0 => "",
         ),

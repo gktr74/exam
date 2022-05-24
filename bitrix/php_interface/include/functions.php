@@ -13,4 +13,15 @@ function dump($var, $die = false, $all = false)
         die;
     }
 }
+
+function my_dump($var)
+{
+    global $USER;
+    if($USER-> isAdmin()) {
+       ?> <pre>
+    <? print_r($var);?>
+</pre>
+<?php }
 ?>
+
+<?php }

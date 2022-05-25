@@ -7,8 +7,8 @@
     <title><?$APPLICATION->ShowTitle();?></title>
     <link rel="stylesheet" href="/bitrix/templates/.default/template_style.css"/>
     <script type="text/javascript" src="/bitrix/templates/.default/js/jquery-1.8.2.min.js"></script>
-<!--    <script type="text/javascript" src="bitrix/templates/.default/js/slides.min.jquery.js"></script>-->
-<!--    <script type="text/javascript" src="bitrix/templates/.default/js/jquery.carouFredSel-6.1.0-packed.js"></script>-->
+    <script type="text/javascript" src="bitrix/templates/.default/js/slides.min.jquery.js"></script>
+    <script type="text/javascript" src="bitrix/templates/.default/js/jquery.carouFredSel-6.1.0-packed.js"></script>
     <script type="text/javascript" src="/bitrix/templates/.default/js/functions.js"></script>
     <link  rel="shortcut icon" type="image/x-icon" href="/bitrix/templates/.default/favicon.ico"/>
     <!--[if gte IE 9]><style type="text/css">.gradient {filter: none;}</style><![endif]-->

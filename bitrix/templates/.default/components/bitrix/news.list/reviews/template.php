@@ -34,7 +34,7 @@
         </ul>
         <div id="rwprev"></div>
         <div id="rwnext"></div>
-        <a href="" class="rw_allreviewed">Все отзывы</a>
+        <a href="reviews" class="rw_allreviewed">Все отзывы</a>
     </div>
 </div>
 
